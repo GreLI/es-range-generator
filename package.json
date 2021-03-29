@@ -1,6 +1,6 @@
 {
   "name": "es-range-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ES Range generator is zero-dependency tiny module that provides `range()` function similar to one that's in Python. Its main purpose is to use in `for-of` loops with a far more convenient syntax than common hacks.",
   "main": "./index.js",
   "scripts": {
@@ -16,9 +16,9 @@
     "python",
     "xrange"
   ],
-  "homepage": "https://github.com/GreLI/range-generator",
+  "homepage": "https://github.com/GreLI/es-range-generator",
   "bugs": {
-    "url": "https://github.com/GreLI/range-generator/issues"
+    "url": "https://github.com/GreLI/es-range-generator/issues"
   },
   "author": {
     "name": "Lev Solntsev",
